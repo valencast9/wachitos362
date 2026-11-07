@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "footprints") (type "KiCad") (uri "${KIPRJMOD}/libraries/P120PK_Y25BR10K/footprints.pretty") (options "") (descr ""))
+	(lib (name "footprint") (type "KiCad") (uri "${KIPRJMOD}/libraries/PAM8302AADCR/footprint.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/libraries/PAM8302AADCR/Library.pretty") (options "") (descr ""))
+)

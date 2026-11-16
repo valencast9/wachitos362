@@ -13,8 +13,10 @@
 int main()
 {
 
-    // Configures our microcontroller to 
+    // Configures our MCU to 
     // communicate over UART through the TX/RX pins
     stdio_init_all();
+
+    
        
 }

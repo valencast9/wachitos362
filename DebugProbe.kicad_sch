@@ -6,10 +6,10 @@
 	(paper "A3")
 	(title_block
 		(title "Debug Probe for Wachitos Synth")
-		(date "2026-11-06")
-		(rev "REV1")
+		(date "2026-11-17")
+		(rev "Final")
 		(company "Author: Valentino Cattaneo")
-		(comment 1 "Based on Proton Board Debug Probe design by Niraj Menon")
+		(comment 1 "Based on Proton Board design by Niraj Menon")
 	)
 	(lib_symbols
 		(symbol "BAT60JFILM:BAT60JFILM"
